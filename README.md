@@ -30,13 +30,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Answer:: It is an access to the a web page which allows manipulation of the page content
+
 2. What is an event?
+
+Answer:: Is an action triggered by an element of a web page
 
 3. What is an event listener?
 
+Answer:: it listen to various actions of an element its structure is element.addEventListener('event', callback)
+
 4. Why would we convert a NodeList into an Array?
 
+Answer:: To utilize the full prototypes of an array and for proper manipulation of data
+
+
 5. What is a component?
+
+Answer:: It is breaking down of large Item into smaller piceses for easy management.
 
 ### Git Set up
 

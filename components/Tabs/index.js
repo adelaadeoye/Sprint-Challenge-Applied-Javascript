@@ -27,7 +27,7 @@ function TabsComponent(topics) {
     //Create element
     const topicDiv = document.createElement('div');
 
-    //class
+    //classes
     topicDiv.classList.add('tab');
 
     //content
